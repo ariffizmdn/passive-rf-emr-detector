@@ -1,7 +1,7 @@
 # passive-rf-emr-detector
 # Passive Radio Frequency Electromagnetic Radiation Monitor
 
-Simple low-cost RF/EMF detector built for **Electromagnetic Fields and Waves**
+Simple low-cost RF/EMF detector built for **Electromagnetic Fields and Waves** course project.
 
 ## What It Does
 Detects RF signals from:
@@ -17,8 +17,9 @@ Gives instant visual (LED) + audible (buzzer) alert when RF is present.
 - Powered by 9 V battery
 
 ## Files in This Repo
-- `EMT.pdf` → Full 12-page technical report (literature review, theory, results, photos, references)
-- (Add your breadboard photos later if you want)
+- Schematic diagram
+- hardware
+- rf-detector-demo .mp4
 
 ## Quick Test Results
 | Source            | LED              | Buzzer         |
